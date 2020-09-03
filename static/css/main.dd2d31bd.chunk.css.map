@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,KACE,YAAa,CACb,qBAAsB,CACtB,kBAAmB,CAEnB,8DACA,CAAA,uBACA,CAAA,YAAa","file":"main.dd2d31bd.chunk.css","sourcesContent":[".App {\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n\n  background-image: url(./screen-2.jpg);\n  background-size: contain;\n  height: 100vh;\n}\n"]}
